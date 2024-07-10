@@ -40,4 +40,5 @@ A principal característica são os **ciclos (iterações) curtos e iterativos d
 
 **1. XP**
 
-O XP segue o padrão dos métodos ágeis, é um método mais leve onde existem requisitos sujeitos a mudanças
+O XP segue o padrão dos métodos ágeis, é um método mais leve onde existem requisitos sujeitos a mudançasmalkdsfjfjaldk
+kdmadknmasdjkfa
