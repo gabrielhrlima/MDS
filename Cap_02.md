@@ -38,7 +38,33 @@ A principal característica são os **ciclos (iterações) curtos e iterativos d
 
 **Scrum, XP, Kanban**
 
-**1. XP**
+#### 1.XP
 
-O XP segue o padrão dos métodos ágeis, é um método mais leve onde existem requisitos sujeitos a mudançasmalkdsfjfjaldk
-kdmadknmasdjkfa
+`Kent Beck- 1999`
+
+O XP segue o padrão dos métodos ágeis, é um método mais leve onde existem requisitos sujeitos a mudanças.
+Adota cilcos curtos e iterativos de desenvolvimento em equipes pequenas.
+O método XP defende um conjunto de práticas, valores e princípios para o desenvolvimento de softwares.  
+Não existe uma etapa dedicada somente ao design, o XP promove um design incremental.  
+Cada projeto deve ter um representante do cliente, uma das funções desse representante é de validar as histórias de usuários (user stories) e priorizar as mais importantes.  
+A duração de uma história é estimada em stori point. Os story points seguem a sequencia de ficonacci (1,2,3,5,8,13,...)
+
+Os tres **valores** principais: comunicação, simplicidade e feedback, esses valores buscam garantir que erros serão evitados e riscos desnecessários sejam tomados.
+
+    Planeje-se para jogar fora partes de seu sistema, pois você fará isso.
+
+Os **princípios** servem para ligar os valores e as práticas. Humanidade, economicidade benefícios múltiplos, melhorias contínuas, falhas acontecem, baby steps, responsabilidade pessoal e mundo real. Esses princítos visam garantir que a criação de sotfware seja feita de uma forma que garanta a maior eficiencia de tempo e custo e que as pessoas que desenvolverão o software trabalhem com responsabilidade e confiança na equipe e no processo.
+
+As **práticas** de desenvolvimento servem para nortear o desenvolvimento do software e garantir q ele seja o mais confiável possível. Design incremental, programação em pares, propriedade coletiva do código, testes automatizados, desenvolvimeto dirigido por testes, build automatizado, integração contínua.
+
+#### Scrum
+
+`Jeffrey Sutherland e Ken Schwaber-1995`
+
+O Scrum é um método ágil, incremental e iterativo para o desenvolvimento de projetos. Diferente do XP o scrum não serve apenas para projetos de desenvovimento de software, o que fez com que ele se tornasse o método ágil mais conhecido. No scrum acontecem algumas definições que são os papéis, artefatos e eventos.
+
+Os **Papéis** no scrum são :`Dono do projeto`- tem a mesma função do Representante dos clientes no XP; `Scrum Master`- é um especialista em scrum e cabe a ele resolver alguns problemas durante o desenvolvimento, mas o scrum master não pe um gerente tradicional, no scrum todos do time tem o mesmo nível hierárquico; `Desenvolvedores`- são as pessoas que vão fazer os códigos, eles devem ter capacidades múltiplas pois o scrum defende q um projeto não deve depender de membros externos.
+
+Os **Artefátos** no scrum são : `Backlog do produto`- é uma lista de histórias validadas e priorizadas pelo Dono do produto, mas é um artefato dinâmico, podendo sofrer alterações no decorrer do desenvolvimento; `Sprint`- é o nome dado pra uma iteração, no final de cada sprint é esperado um produto potencialmente pronto.
+
+Os **Eventos** no scrum são: `Planejamento da sprint` - é uma reunião que feita para definir as histórias que serão implementadas na sprint, a primeira parte é o dono do projeto definir quais as histórias desejadas e o time estipular a velocidade da implementação e em seguida o time quebra as histórias em tarefas e estimam a duração delas; `Backlog da sprint` - é uma lista das tarefas e da duração da sprint, assim como o backlog do produto o backlog da sprint é um artefato dinâmico e pode sofrer alterações sem mudar o objetivo da sprint (_sprint goal_).
