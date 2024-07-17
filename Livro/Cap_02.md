@@ -70,3 +70,25 @@ Os **Artefátos** no scrum são : `Backlog do produto`- é uma lista de históri
 Os **Eventos** no scrum são: `Planejamento da sprint` - é uma reunião que feita para definir as histórias que serão implementadas na sprint, a primeira parte é o dono do projeto definir quais as histórias desejadas e o time estipular a velocidade da implementação e em seguida o time quebra as histórias em tarefas e estimam a duração delas; `Backlog da sprint` - é uma lista das tarefas e da duração da sprint, assim como o backlog do produto o backlog da sprint é um artefato dinâmico e pode sofrer alterações sem mudar o objetivo da sprint (_sprint goal_); `Reuniões diárias`- a proposta inicial é de ser um reunião rápida que se possível deve ser feita em pé e deve durar no máximo 15 minutos, cada menbro de ve responder 3 perguntas: o que ele fez, o que está fazendo e se está enfrentando algum problema mais sério na sua tarefa; `Revisão da sprint` - é uma reunião onde o time apresenta os resultados da sprint para o dono do projeto, que pode ou não sujerir mudanças; `Retrorspectiva`- é uma reunião do time de desenvolvedores com o objetivo de refletir o sobre os processos e ferramentas usadas; `Time box` - é uma tabela como a duração esperada de cada parte do projeto.
 
 #### Kanban
+
+O Kanban é um método simples de organização que surguiu nas fábricas da Toyota no Japão na década de 50, mas comoçou a ser usado no desenvolvimento de softwares pela Microsoft em 2004 liderado por David Anderson. O método Kanban propõe a utilização de uma quadro (quadro kanban, _kanban board_) para deixar claro o andamento do projeto, neles estão apresentadas as partes do produto que estão sendo feitas e que irão ser feitas, além de apresentar o backlog do produto.
+
+A ideia é que o quadro seja dividido em colunas que representam cada uma das tarefas do projeto, cada coluna possui duas subcolunas (em execução e concluída).
+
+**limites do WIP(_Work in Progress_)** - tem o objetivo de evitar duas coisas: que o time fique ocisoso e que o time fique sobrecarregado, definindo uma quantidade máxima de tarefas em cada passo. Essa quantidade é definida usando uma fórmula que leva em conta o tempo de duração de cada tarefa.
+
+## Quando NÃO USAR MÉTODOS ÁGEIS
+
+Por mais que os métodos ágeis tenha trazido uma mudança radical, nem sempre eles são os mais indicados para um projeto.
+
+`Design incremental` - funciona se o time já tem uma ideia do sistema final, se não, é melhor fazer uma fase de desing e análise;
+
+`Histórias de usuários` - pode ser importante ter uma lista de requisitos no início do projeto;
+
+`Envolvimento do cliente`- Se os requisitos do sistema são estáveis e de pleno conhecimento do time de desenvolvedores, não faz sentido ter um Representante dos Clientes ou Dono do Produto integrado ao time;
+
+`Documentação leve e simplificada` - em certos lugares uma documentação extremamente detalhada é obrigatório;
+
+`Times auto-organizáveis` - em organizações mais tradicionais, existe a necessidade de figuras de autoridade para gerenciar um projeto;
+
+`Contratos com escopo aberto`- algumas organizações podem são se sentir confortáveis com essa prática já que ela propõe uma remuneração por hora trabalhada;
